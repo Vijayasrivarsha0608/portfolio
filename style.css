@@ -2494,7 +2494,7 @@ section {
 /* Ensure profile image fully fits its card without cropping */
 .profile-image {
     width: 100%;
-    max-width: 360px; /* adjust to your card size */
+    max-width: 300px; /* adjust to your card size */
     aspect-ratio: 1 / 1;
     border-radius: 20px;
     display: flex;
