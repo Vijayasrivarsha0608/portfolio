@@ -765,7 +765,7 @@ select.form-control {
     /* Spacing - More breathing room */
     --space-xs: 0.5rem;
     --space-sm: 1rem;
-    --space-md: 2rem;
+    --space-md: 1rem;
     --space-lg: 2.5rem;
     --space-xl: 3.5rem;
     --space-2xl: 5rem;
@@ -2011,7 +2011,6 @@ section {
     color: var(--text-light-grey);
     font-size: 1.1rem;
     line-height: 1.6;
-    margin-bottom: var(--space-2xl);
 }
 
 .contact-form {
@@ -2063,11 +2062,9 @@ section {
 
 .contact-submit {
     width: 100%;
-    padding: var(--space-lg) var(--space-xl);
     font-size: 1.1rem;
     font-weight: 600;
     border-radius: 50px;
-    margin-bottom: var(--space-lg);
 }
 
 .contact-submit:hover {
