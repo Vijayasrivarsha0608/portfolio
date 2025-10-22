@@ -1983,7 +1983,6 @@ section {
 /* Left Side - Contact Form */
 .contact-left {
     background: var(--secondary-bg);
-    padding: var(--space-3xl) var(--space-2xl);
     display: flex;
     align-items: center;
     justify-content: center;
